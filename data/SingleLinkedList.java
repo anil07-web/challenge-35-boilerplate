@@ -1,4 +1,4 @@
-public class Wordlist {
+public class SingleLinkedList {
     Node head = null;
 
     public void addWord(String word) {
